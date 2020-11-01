@@ -42,7 +42,7 @@ window.onload = function() {
   .to(photoImage, 0.7, {
     opacity: '1',
     transform: 'translateY(0)',
-    filter: 'grayscale(100%)',
+    filter: 'none',
     ease: Power3.easeOut
   })
   .to(card, 1, {

@@ -7,7 +7,7 @@ body {
   display: flex;
   width: 100vw;
   height: 100vh;
-  background-color: #d3dbe8;
+  background-color: #ffffff;
 }
 
 .card {
@@ -38,7 +38,7 @@ body {
   justify-content: center;
   position: relative;
   width: 100%;
-  background-color: #003087;
+  background-color: #29455f;
   z-index: 5;
 }
 
@@ -47,7 +47,7 @@ body {
   padding: 7px;
   width: 150px;
   height: 150px;
-  border: 5px solid rgba(255, 255, 255, 0.4);
+  border: 1px solid rgba(255, 255, 255, 0.4);
   border-radius: 50%;
   margin-bottom: 10px;
   -webkit-transform: translateY(-100px);
@@ -96,7 +96,7 @@ body {
   position: relative;
   overflow: hidden;
   width: 0;
-  background-color: #33363B;
+  background-color: #5d3f6e;
   -webkit-transform: translateX(-600px);
   transform: translateX(-600px);
   opacity: 0;
